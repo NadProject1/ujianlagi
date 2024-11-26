@@ -2,3 +2,10 @@
     text-decoration: none;
     color: white;
 }
+
+.navbar a:hover {
+    color: rgb(91, 250, 33);
+}
+.navbar a {
+    color: greenyellow;
+}
