@@ -1,0 +1,29 @@
+/* body */
+body {
+    background-color: aliceblue;
+}
+
+/* navbar */
+.navbar a:hover {
+    color: rgb(91, 250, 33);
+}
+.navbar a {
+    color: greenyellow;
+}
+
+/* card img */
+
+.menu-card:hover {
+    transform: translateY(-8px);
+}
+
+.btn a {
+   text-decoration: none;
+   color: white;
+}
+
+
+.carousel-item img {
+    height: 350px;
+    padding-top: 10px;
+}
